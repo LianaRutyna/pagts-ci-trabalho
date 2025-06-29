@@ -4025,11 +4025,6 @@ string_decoder@^1.1.1:
   dependencies:
     safe-buffer "~5.2.0"
 
-strip-ansi-cjs@^6.0.1:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/strip-ansi-cjs/-/strip-ansi-cjs-2.0.0.tgz#bb3b822f0f72c2bf6efb789a8db6e66bb63fb91e"
-  integrity sha512-HFESgI8/RPAHiCEK5xdPF6qCQ01FnAW71+eiPAYkRKQ42UhQ1GoIJ7CX8BxPGpxANaRI8dhm/GsEckOH98Jj8w==
-
 "strip-ansi-cjs@npm:strip-ansi@^6.0.1":
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
@@ -4369,10 +4364,10 @@ workerpool@^6.5.1:
   resolved "https://registry.yarnpkg.com/workerpool/-/workerpool-6.5.1.tgz#060f73b39d0caf97c6db64da004cd01b4c099544"
   integrity sha512-Fs4dNYcsdpYSAfVxhnl1L5zTksjvOJxtC5hzMNl+1t9B8hTJTdKDyZ5ju7ztgPy+ft9tBFXoOlDNiOT9WUXZlA==
 
-wrap-ansi-cjs@^7.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/wrap-ansi-cjs/-/wrap-ansi-cjs-1.0.0.tgz#549fbe5abb51671487bb828147f6403ab7c2c06c"
-  integrity sha512-fsvNffasX9knEeKVeSX6SPYnWCmO03ayVLfTDDvtgtUZfN034RcrybyWOPpls9tEX4YgfdH9LuwE35D1oxfSyQ==
+wrap-ansi-cjs@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/wrap-ansi-cjs/-/wrap-ansi-cjs-8.0.0.tgz#e9b2e842f42a1787e598f15669201f3178e1f79e"
+  integrity sha512-ulIS1SVkr+L2i8Zdp7x7ghDD3HCrrGXnMJ5ZbT1F9HBDugpT9o0e9qkCHj6cXJRLQYHy1xlY2i9BzvvSV/C8sQ==
 
 "wrap-ansi-cjs@npm:wrap-ansi@^7.0.0":
   version "7.0.0"
